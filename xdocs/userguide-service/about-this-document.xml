@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preface version="5.0" xml:id="about" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:svg="http://www.w3.org/2000/svg"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:db="http://docbook.org/ns/docbook">
+  <title xml:lang="ko-KR">안내서에 대하여</title>
+
+  <bridgehead>안내서의 대상</bridgehead>
+
+  <para>본 안내서는 eformsign<superscript>®</superscript>(이하 eformsign)을 사용하고자 하는
+  모든 사용자를 대상으로 기술하고 있습니다.</para>
+
+  <para/>
+
+  <bridgehead>안내서의 전제 조건</bridgehead>
+
+  <para>본 안내서를 원활하게 이해하기 위해서는 다음과 같은 사항을 미리 알고 있어야 합니다.</para>
+
+  <itemizedlist>
+    <listitem>
+      <para>전자문서 시스템에 대한 기본적인 이해</para>
+    </listitem>
+  </itemizedlist>
+
+  <para/>
+
+  <bridgehead>안내서의 제한 조건</bridgehead>
+
+  <para>본 안내서는 eformsign을 사용하는데 필요한 필수 사항만을 기술하고 있습니다.</para>
+
+  <para/>
+
+  <?dbfo-need height="10in" ?>
+
+  <bridgehead>안내서 구성</bridgehead>
+
+  <para>eformsign 사용자 안내서는 총 9개의 장으로 구성되어 있습니다.</para>
+
+  <para>각 장의 주요 내용은 다음과 같습니다.</para>
+
+  <itemizedlist>
+    <listitem>
+      <para>제1장: 개요</para>
+
+      <para>eformsign 제품 개요와 기본 용어, 사용 사례에 대해서 기술합니다.</para>
+    </listitem>
+
+    <listitem>
+      <para>제2장: 기본 정보</para>
+
+      <para>eformsign의 메뉴 구성과 기본 정보를 확인하는 방법, 회사의 그룹과 멤버를 관리하는 방법에 대해서
+      설명합니다.</para>
+    </listitem>
+
+    <listitem>
+      <para>제3장: 웹폼 디자이너와 컴포넌트</para>
+
+      <para>eformsign의 웹폼 디자이너 소개 및 사용법과 각각의 컴포넌트의 사용 방법에 대해서 설명합니다.</para>
+    </listitem>
+
+    <listitem>
+      <para>제4장: 폼 빌더와 컴포넌트</para>
+
+      <para>eformsign의 폼 빌더 소개 및 사용법과 각각의 컴포넌트의 사용 방법에 대해서 설명합니다.</para>
+    </listitem>
+
+    <listitem>
+      <para>제5장: 템플릿-웹폼 디자이너</para>
+
+      <para>웹폼 디자이너를 통해 생성한 템플릿의 설정 방법 및 사용 방법에 대해서 설명합니다.</para>
+    </listitem>
+
+    <listitem>
+      <para>제6장: 템플릿-폼 빌더</para>
+
+      <para>폼 빌더를 통해 생성한 템플릿의 설정 방법 및 사용 방법에 대해서 설명합니다.</para>
+    </listitem>
+
+    <listitem>
+      <para>제7장: 문서</para>
+
+      <para>eformsign이 제공하는 문서함과 문서함의 사용 방법, 문서 검색 방법에 대해서 설명합니다.</para>
+    </listitem>
+
+    <listitem>
+      <para>제8장: 커스터마이즈</para>
+
+      <para>eformsign에서 사용자 정의 필드를 생성 및 사용하는 방법과 알림 템플릿을 관리하는 방법에 대해서
+      설명합니다.</para>
+    </listitem>
+
+    <listitem>
+      <para>제9장: 외부 서비스 연동 방법</para>
+
+      <para>완료된 문서를 외부의 클라우드 스토리지 서비스에 저장하는 방법과 입력된 데이터를 Google 스프레드 시트와
+      Office 365의 엑셀 문서에 저장하는 방법에 대해서 설명합니다.</para>
+    </listitem>
+  </itemizedlist>
+
+  <para/>
+
+  <?dbfo-need height="10in" ?>
+
+  <bridgehead>안내서 규약</bridgehead>
+
+  <para><informaltable colsep="1" frame="topbot" rowsep="1">
+      <tgroup cols="2">
+        <colspec align="left" colwidth="150"/>
+
+        <thead>
+          <row>
+            <entry>표기</entry>
+
+            <entry>의미</entry>
+          </row>
+        </thead>
+
+        <tbody>
+          <row>
+            <entry>&lt;AaBbCc123&gt;</entry>
+
+            <entry>프로그램 소스 코드의 파일명</entry>
+          </row>
+
+          <row>
+            <entry>&lt;Ctrl&gt;+C</entry>
+
+            <entry>Ctrl과 C를 동시에 누름</entry>
+          </row>
+
+          <row>
+            <entry><guimenuitem> 진하게</guimenuitem></entry>
+
+            <entry>GUI의 버튼 또는 메뉴 이름, 화면 UI에서 입력 항목에 대한 설명, 강조</entry>
+          </row>
+
+          <row>
+            <entry>" "(따옴표)</entry>
+
+            <entry>다른 관련 안내서 또는 안내서 내의 다른 장 및 절 언급</entry>
+          </row>
+
+          <row>
+            <entry><email> 하이퍼링크</email></entry>
+
+            <entry>메일계정, 웹 사이트</entry>
+          </row>
+
+          <row>
+            <entry>&gt;</entry>
+
+            <entry>메뉴의 진행 순서</entry>
+          </row>
+
+          <row>
+            <entry>+----</entry>
+
+            <entry>하위 디렉터리 또는 파일 있음</entry>
+          </row>
+
+          <row>
+            <entry>|----</entry>
+
+            <entry>하위 디렉터리 또는 파일 없음</entry>
+          </row>
+
+          <row>
+            <entry><note>
+                <para/>
+              </note></entry>
+
+            <entry>참고 또는 주의사항</entry>
+          </row>
+
+          <row>
+            <entry><guimenuitem>[그림 1.1]</guimenuitem></entry>
+
+            <entry>그림 이름</entry>
+          </row>
+
+          <row>
+            <entry><guimenuitem>[표 1.1]</guimenuitem></entry>
+
+            <entry>표 이름</entry>
+          </row>
+
+          <row>
+            <entry><programlisting language=""> AaBbCc123</programlisting></entry>
+
+            <entry>명령어, 명령어 수행 후 화면에 출력된 결과물, 예제코드</entry>
+          </row>
+
+          <row>
+            <entry>[ ]</entry>
+
+            <entry>옵션 인수 값</entry>
+          </row>
+
+          <row>
+            <entry>|</entry>
+
+            <entry>선택 인수 값</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable></para>
+
+  <?dbfo-need height="10in" ?>
+
+  <para><bridgehead>관련 안내서</bridgehead></para>
+
+  <informaltable colsep="1" frame="topbot" rowsep="1">
+    <tgroup cols="2">
+      <colspec align="left" colwidth="150"/>
+
+      <thead>
+        <row>
+          <entry>안내서</entry>
+
+          <entry>설명</entry>
+        </row>
+      </thead>
+
+      <tbody>
+        <row>
+          <entry><para><olink targetdoc="installation"
+          targetptr="book">eformsign 설치 안내서</olink></para></entry>
+
+          <entry>설치형 패키지 제품인 eformsign on-premise 제품을 설치하는 방법에 대해 기술한
+          안내서입니다.</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para/>
+
+  <?dbfo-need height="10in" ?>
+
+  <bridgehead>연락처</bridgehead>
+
+  <para><bridgehead>Korea</bridgehead><address>FORCS Co. Ltd (HQ)
+<otheraddr>646, Nonhyeon-ro, Gangnam-gu, Seoul,
+Republic of Korea 06106</otheraddr>
+Tel: +82 2 6188 8200
+Email: <email>eformsign@forcs.com</email>
+Web (Korean): <otheraddr><link xlink:href="chapter1.xml">https://www.eformsign.com/kr</link></otheraddr>
+</address></para>
+
+  <para><bridgehead>Singapore</bridgehead><address><otheraddr>FORCS Singapore Pte Ltd</otheraddr>
+8 Shenton Way,
+#04-01 AXA Tower,
+Singapore 068811
+Tel: +65 6100 2007 
+Email:<email>singapore@forcs.com</email>
+Web (Korean): <otheraddr><link xlink:href="chapter1.xml">http://www.forcs.com/en/</link></otheraddr></address></para>
+
+  <para><bridgehead>Japan</bridgehead><address>FORCS Japan
+Tokyo-to, Shibuya-ku,
+Sendagaya, 4 Chome-11-9,
+#402, 151-0051, Japan
+Email: <email>global@forcs.com</email>
+Web (Korean): <otheraddr><link xlink:href="chapter1.xml">http://www.forcs.com/jp/</link></otheraddr></address></para>
+
+  <?dbfo-need height="10in" ?>
+
+  <para><bridgehead>Europe</bridgehead><address>FORCS Europe<otheraddr>
+</otheraddr>Cours Saint-Michel 30B,
+Sint-Michielswarande,
+1040 Etterbeek, Belgium
+Email: <email>singapore@forcs.com</email>
+Web (Korean): <otheraddr><link xlink:href="chapter1.xml">http://www.forcs.com/en/</link></otheraddr></address></para>
+</preface>

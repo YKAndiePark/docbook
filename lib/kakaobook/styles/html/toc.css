@@ -1,0 +1,70 @@
+BODY {
+    background-color: #FCFCFC;
+    font-family: "Roboto", "Noto Sans", "Verdana", "Arial", "Helvetica", sans-serif;
+    font-size: 12px;
+    line-height: 140%;
+    margin: 0;
+}
+
+.JMTitleHeading {
+    font-family: "Roboto", "Noto Sans", "Verdana", "Arial", "Helvetica", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    margin: 0 0 10px 0;
+    white-space: nowrap;
+    background-color: #10B1A4;
+    border-top: 1px solid #333333;
+    border-bottom: 1px solid white;
+    padding: 7px;
+}
+
+div.toc {
+    margin: 10px;
+}
+
+A:link {
+    color: #1E5388;
+    text-decoration: none;
+}
+
+A:visited {
+    color: #1E5388;
+    text-decoration: none;
+}
+
+A:hover {
+    color: #FF0080;
+    text-decoration: underline;
+}
+
+A:active {
+    color: #FF0080;
+    text-decoration: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+.section {
+    font-size: 11px;
+    font-weight: normal;
+}
+
+dd {
+    text-indent: -22px;
+}
+
+dd dl dd {
+    text-indent: -44px;
+}
+
+div.toc dl dd {
+    margin-bottom: 7px;
+}
+
+div.toc dl dd dl dd {
+    margin-bottom: 2px;
+}
+
