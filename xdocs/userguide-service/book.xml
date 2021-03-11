@@ -7,11 +7,11 @@
       xmlns:mml="http://www.w3.org/1998/Math/MathML"
       xmlns:html="http://www.w3.org/1999/xhtml"
       xmlns:db="http://docbook.org/ns/docbook">
-  <title>eformsign</title>
+  <title>e</title>
 
   <subtitle>사용자 안내서</subtitle>
 
-  <titleabbrev>eformsign Service</titleabbrev>
+  <titleabbrev>Service</titleabbrev>
 
   <xi:include href="../common/bookinfo.xml"/>
 
